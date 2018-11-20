@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mz1AXUE0nR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  src="http://nbviewer.jupyter.org/github/gerryk18/retire_at_50/blob/master/Where%20to%20retire%20at%2050.ipynb"></iframe>
