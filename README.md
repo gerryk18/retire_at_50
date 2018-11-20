@@ -1,1 +1,1 @@
- <iframe src="https://demo.bokehplots.com/apps/movies"></iframe> 
+ <iframe class="embed-responsive-item" src="https://demo.bokehplots.com/apps/movies"></iframe> 
