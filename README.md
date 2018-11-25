@@ -4,4 +4,4 @@
 <p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.</p>
 
  
- <iframe frameborder="0" style="width:100%;height:1000px;" src="/plot.html"></iframe> 
+ <iframe frameborder="0" style="width:100%;height:1000px;" src="https://gerryk18.github.io/retire_at_50/plot.html"></iframe> 
