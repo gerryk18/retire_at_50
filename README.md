@@ -24,43 +24,43 @@
     </tr></thead> 
 <tbody>    <tr> 
          
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row0_col0" class="data row0 col0" >Berlin</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row0_col0" class="data row0 col0" >Tenerife</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row0_col1" class="data row0 col1" >1</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row1_col0" class="data row1 col0" >Tallinn</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row1_col0" class="data row1 col0" >Malaga</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row1_col1" class="data row1 col1" >2</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row2_col0" class="data row2 col0" >Gdansk</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row2_col0" class="data row2 col0" >Utrecht</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row2_col1" class="data row2 col1" >3</td> 
     </tr>    <tr> 
          
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row3_col0" class="data row3 col0" >Prague</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row3_col0" class="data row3 col0" >Barcelona</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row3_col1" class="data row3 col1" >4</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row4_col0" class="data row4 col0" >Munich</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row4_col0" class="data row4 col0" >Ponta Delgada</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row4_col1" class="data row4 col1" >5</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row5_col0" class="data row5 col0" >Madrid</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row5_col0" class="data row5 col0" >Vienna</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row5_col1" class="data row5 col1" >6</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row6_col0" class="data row6 col0" >Tenerife</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row6_col0" class="data row6 col0" >Prague</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row6_col1" class="data row6 col1" >7</td> 
     </tr>    <tr> 
          
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row7_col0" class="data row7 col0" >Warsaw</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row7_col0" class="data row7 col0" >Bratislava</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row7_col1" class="data row7 col1" >8</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row8_col0" class="data row8 col0" >Lisbon</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row8_col0" class="data row8 col0" >Stockholm</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row8_col1" class="data row8 col1" >9</td> 
     </tr>    <tr> 
         
-        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row9_col0" class="data row9 col0" >Ponta Delgada</td> 
+        <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row9_col0" class="data row9 col0" >Berlin</td> 
         <td id="T_7d9510ae_f0b5_11e8_87bc_34415d12ddd2row9_col1" class="data row9 col1" >10</td> 
     </tr></tbody> 
 </table> 
