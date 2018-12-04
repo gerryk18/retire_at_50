@@ -1,7 +1,7 @@
 <h1>
 <a id="header-1" class="anchor" href="#header-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Web App</h1>
 
-<p>Where to Retire by 2050 is a web application that looks at different cities around Europe and ranks the best one to retire in by 2050. It is interactive and displays information about weather, crime, health etc.
+<p>Where to Retire by 2050 is a web application that looks at different cities around Europe and ranks the best one to retire in by 2050. It is interactive and displays information about weather, crime, health and population.
 
 The app is built with HTML and python and the data is gathered from the EuroStat website which holds data on all the EU member countries and cities.</p>
 
@@ -11,7 +11,7 @@ The app is built with HTML and python and the data is gathered from the EuroStat
  <h1>
 <a id="header-1" class="anchor" href="#header-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>The best City?</h1>
 
-<p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.</p>
+<p>Below are the results after analysing the data, Tenerife comes out on top with a low population, low rain fall, high sunshine and good Health Care Index.</p>
  
  <div class="output_html rendered_html output_subarea output_execute_result">
 <style  type="text/css" >
